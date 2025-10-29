@@ -28,12 +28,13 @@ This app fetches **real-time weather data** from **multiple APIs** using **Promi
 ## 📁 Project Structure
 
 -WeatherApplication/
-│
-├── server.js # Node.js server file
-├── .env # API keys and environment variables
-├── package.json # Project dependencies
-├── public/
-│ ├── index.html # Frontend HTML file
-│ ├── style.css # Styling
-│ └── script.js # Fetch and UI logic
-└── README.md # Documentation file
+-│
+-├── server.js # Node.js server file
+-├── .env # API keys and environment variables
+-├── package.json # Project dependencies
+-├── public/
+-│ ├── index.html # Frontend HTML file
+-│ ├── style.css # Styling
+-│ └── script.js # Fetch and UI logic
+
+-└── README.md # Documentation file
