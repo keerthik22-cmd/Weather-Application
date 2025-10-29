@@ -38,3 +38,4 @@ This app fetches **real-time weather data** from **multiple APIs** using **Promi
 -│ └── script.js # Fetch and UI logic
 
 -└── README.md # Documentation file
+
